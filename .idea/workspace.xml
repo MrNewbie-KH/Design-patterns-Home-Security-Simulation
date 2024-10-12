@@ -5,19 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23fd9fe2-6f95-42ab-97e6-668326e6443c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/AbstractFactoryA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/AbstractFactoryB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/IAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/MotionSensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/MotionSensorA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/MotionSensorB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Sensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/SmokeSensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/SmokeSensorA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/SmokeSensorB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observer/MyObserver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeSecuritySimulator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeSecuritySimulator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactory/MotionSensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractFactory/MotionSensor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactory/MotionSensorA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractFactory/MotionSensorA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactory/MotionSensorB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractFactory/MotionSensorB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactory/Sensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractFactory/Sensor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactory/SmokeSensor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractFactory/SmokeSensor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactory/SmokeSensorA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractFactory/SmokeSensorA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractFactory/SmokeSensorB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractFactory/SmokeSensorB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +48,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -80,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727564257555</updated>
       <workItem from="1727564258590" duration="818000" />
-      <workItem from="1728764670869" duration="3082000" />
+      <workItem from="1728764670869" duration="5645000" />
     </task>
     <servers />
   </component>

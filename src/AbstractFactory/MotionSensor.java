@@ -1,6 +1,6 @@
 package AbstractFactory;
 
-public interface MotionSensor extends Sensor{
+public abstract class MotionSensor extends Sensor{
 
 
 }

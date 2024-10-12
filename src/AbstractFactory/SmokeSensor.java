@@ -1,5 +1,5 @@
 package AbstractFactory;
 
-public interface SmokeSensor extends Sensor{
+public abstract class SmokeSensor extends Sensor{
 
 }

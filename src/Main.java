@@ -15,7 +15,9 @@ public class Main {
         Sensor motionSensorA = aCompany.createMotionSensor(); // no user
         Sensor smokeSensorA = aCompany.createSmokeSensor();
         motionSensorA.setHomeOwner(homeowner);
+        motionSensorA.setLogger(logger);
         smokeSensorA.setHomeOwner(homeowner);
+        smokeSensorA.setLogger(logger);
         motionSensorA.detect();
         smokeSensorA.detect();
     }

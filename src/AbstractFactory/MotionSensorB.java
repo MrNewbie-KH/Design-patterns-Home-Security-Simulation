@@ -5,6 +5,7 @@ public class MotionSensorB extends MotionSensor{
     public void detect() {
         System.out.println("Motion detected via B");
         notifyObservers();
+        logger.log("LOGGER:  Motion detected via B");
 
     }
 

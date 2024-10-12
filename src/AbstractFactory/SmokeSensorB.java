@@ -5,6 +5,7 @@ public class SmokeSensorB extends SmokeSensor{
     public void detect() {
         System.out.println("Smoke detected via B");
         notifyObservers();
+        logger.log("LOGGER:  Smoke detected via B");
 
     }
 
